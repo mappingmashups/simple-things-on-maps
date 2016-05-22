@@ -8,7 +8,7 @@ Often people come to me with some very simple mapping needs: they just want to g
 * http://umap.openstreetmap.fr/ comes from the OSM community, I haven't used it much
 * http://mapstory.org/ is not the same as [ESRI Story Maps](storymaps.arcgis.com)
 * https://mapjam.com/
-* https://www.mapmakertool.com/
+* https://www.mapmakertool.com/free
 * http://geojson.io is a quick way to make a GeoJSON, then host it on GitHub
 
 Please add new services to this list, and help me flesh out the ones I have! See [CONTRIBUTING.md](CONTRIBUTING.md)
