@@ -9,6 +9,7 @@ Often people come to me with some very simple mapping needs: they just want to g
 * http://mapstory.org/ is not the same as [ESRI Story Maps](storymaps.arcgis.com)
 * http://www.arcgis.com/home/webmap/viewer.html ArcGIS Online, if you create a free "public account". Can also be used in [ESRI Story Maps](storymaps.arcgis.com)
 * http://maphubs.com/ lets you upload data or draw new data using OSM's iD editor
+* http://maphub.com/ seems to be different from MapHubs?
 * https://mapjam.com/
 * https://www.mapmakertool.com/free
 * http://geojson.io is a quick way to make a GeoJSON, then host it on GitHub
