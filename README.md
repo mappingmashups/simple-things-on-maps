@@ -1,7 +1,7 @@
 # simple-things-on-maps
 a list of simple mapping tools for putting things on maps
 
-Often people come to me with some very simple mapping needs: they just want to get some points on a web map, or maybe a few points and polygons. I'm so used to building fairly complicating mapping systems, I don't really know what to suggest for the simple use case. Here is a list of some options, so I know what to suggest next time someone asks.
+Often people come to me with some very simple mapping needs: they just want to get some points on a web map, or maybe a few points and polygons. I'm so used to building fairly complicated mapping systems, I don't really know what to suggest for the simple use case. Here is a list of some options, so I know what to suggest next time someone asks.
 
 * Google My Maps is what I used to use all the time. It still kinda works, but it's hard to find: https://www.google.com/mymaps
 * http://CARTO.com (formerly known as CartoDB) is probably what I'd use now
