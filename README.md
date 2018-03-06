@@ -13,5 +13,6 @@ Often people come to me with some very simple mapping needs: they just want to g
 * https://mapjam.com/
 * https://www.mapmakertool.com/free
 * http://geojson.io is a quick way to make a GeoJSON, then host it on GitHub
+* Mapbox now has some sample code to "[Just Add Markers To A Map"](https://twitter.com/Mapbox/status/970760366652297216 ) or "JAMTAM": https://www.mapbox.com/help/marker-playground/
 
 Please add new services to this list, and help me flesh out the ones I have! See [CONTRIBUTING.md](CONTRIBUTING.md)
